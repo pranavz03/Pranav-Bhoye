@@ -1,0 +1,8 @@
+{
+  "name": "DMwin Prediction Hub",
+  "description": "A high-fidelity dashboard for WinGo color and number predictions featuring an AI signal bot and historical data cycle simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
